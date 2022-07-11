@@ -1,0 +1,30 @@
+body {
+    background-size:cover;
+}
+
+.note{
+    color:rgb(22, 65, 166);
+    font-size:20px;
+}
+
+.heading{
+    width:100%;
+    margin:0;
+    font-size:20px;
+}
+
+canvas{
+    background-color:#000000;
+    border:20px solid white;
+    border-radius:20px;
+    box-shadow:13px 13px 13px #10dc2f;
+}
+
+.block {
+    display:block;
+    width:30%;
+    border:10px solid rgb(46, 17, 232);
+    font-size:20px;
+    text-align:center;
+    background-color:rgb(246, 191, 235);
+}
